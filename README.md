@@ -21,6 +21,7 @@ Update: the python file now has a GUI and .EXE . Hopefully this makes it easyer 
 
 
 This may not be the best solution for you and if you are in a similar boat to me than helpful resources are:
+  
   The Python joystick library
     https://pypi.org/project/vgamepad/#getting-started
   
