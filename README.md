@@ -12,7 +12,7 @@ Update: the python file now has a GUI and .EXE . Hopefully this makes it easyer 
   - the ranges of values that the Arduino is sending back. You will need this for the python script.
 
 3.) Open and edit the python sketch:
-  - Match your port (will be the same as the one you used to upload to the bord e.g., COM3 or COM5.
+  - Match your port in the Dropdown.
   - Match input the maximum and minimum values that you got for the Serial output of the board.
 
 
