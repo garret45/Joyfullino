@@ -11,7 +11,7 @@ To run:
 * Connect the Receiver to the 5v and ground (GND) and the channels to pins 2, 3, 4 and 5 (the order is usually not important)
 * Open the serial monitor to check that you are getting outputs that mover with each stick axis. Close when done (important!)
 * Install Python:  https://www.python.org/downloads/
-* Open the windows command line and past:  pip install vgamepad
+* Open the windows command line and past:  pip install pySerial, vgamepad
 * Install the drivers that pop up
 * Run the python file "Arduino-to-Joystick-App.py" by right-clicking>Open With>Python
 
