@@ -16,22 +16,6 @@ To run:
 * Run the python file "Arduino-to-Joystick-App.py" by right-clicking>Open With>Python
 
 
-Update: the python file now has a GUI. Hopefully this makes it easier to use, otherwise there is a simple script there too.
-
-1.) You connect the PWM outputs of the channels from the RC receiver to pins 2 to 5 on the Arduino.
-
-2.) You upload the Arduino (".ino") sketch to the board and run it using the serial monitor to see:
-  - if your pins are connected right and can see the output of wiggling the knobs,
-  - the ranges of values that the Arduino is sending back. You will need this for the python script.
-
-3.) Open and edit the python sketch:
-  - Match your port in the Dropdown.
-  - Match input the maximum and minimum values that you got for the Serial output of the board.
-
-
-
-
-
 
 This may not be the best solution for you and if you are in a similar boat to me than helpful resources are:
   
